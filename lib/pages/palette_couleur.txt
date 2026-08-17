@@ -1,0 +1,12 @@
+#0B162C : fond
+#1C2942
+#3B556D
+#5FC2BA
+#FFFFFF :
+
+
+#264653 : fond
+#2a9d8f
+#e9c46a
+#f4a261 : texte important (prendre un peu plus clair ou foncé pour moins important)
+#e76f51
